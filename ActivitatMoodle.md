@@ -27,3 +27,12 @@ Ara instal·lem el mariadb-server.
 Ara executem la comanda de seguretat.
 
 ![image](https://user-images.githubusercontent.com/114162341/203822072-fcdfc212-a2c1-4c56-8def-fda41de8e067.png)
+
+I amb aquesta comanda iniciem com a root amb mariaDB amb un usuari extern.
+
+![image](https://user-images.githubusercontent.com/114162341/203823313-8cfd5f19-5560-4c42-8d1c-ca47fd18c592.png)
+
+I ara instal·lem el PHP.
+
+![image](https://user-images.githubusercontent.com/114162341/203822800-7c8bae3c-98b3-421d-b743-172c5d5c2826.png)
+
