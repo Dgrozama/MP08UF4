@@ -34,7 +34,7 @@ I amb aquesta comanda iniciem com a root amb mariaDB amb un usuari extern.
 
 I ara instal·lem el PHP.
 
-![image](https://user-images.githubusercontent.com/114162341/203822800-7c8bae3c-98b3-421d-b743-172c5d5c2826.png)
+
 
 Ara posem aquesta comanda per a accedir a aquest arxiu de configuració.
 
@@ -43,4 +43,10 @@ Ara posem aquesta comanda per a accedir a aquest arxiu de configuració.
 Ara posem el "index.php" al principi de tots els index.
 
 ![image](https://user-images.githubusercontent.com/114162341/203825635-fe464caf-df1c-4e40-aa23-51afafe85301.png)
+
+Ara instal·lem el php7.3 amb aquesta comanda.
+
+``He fet servir aquesta guia: https://www.tecno-tips.com/php/instalar-php-7-3-7-2-7-1-7-0-5-6-ubuntu-20-04/ ``
+
+![image](https://user-images.githubusercontent.com/114162341/203826739-72320b48-507e-46c9-a642-5e9d8d641440.png)
 
