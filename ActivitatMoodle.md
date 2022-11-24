@@ -100,6 +100,7 @@ I li donem permissos al usuari creat.
 
 ![image](https://user-images.githubusercontent.com/114162341/203831414-ffa0f549-2fa5-4647-bb5d-ed333e0831ae.png)
 
-I
+I finalment si posem la ip de la màquina i la direcció ja ens sortirà la pàgina.
 
+![image](https://user-images.githubusercontent.com/114162341/203832103-8e037480-9419-4bc3-8fb5-68f88adef5b7.png)
 
