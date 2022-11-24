@@ -50,3 +50,24 @@ Ara instal·lem el php7.3 amb aquesta comanda.
 
 ![image](https://user-images.githubusercontent.com/114162341/203826739-72320b48-507e-46c9-a642-5e9d8d641440.png)
 
+Ara reiniciem el apache2.
+
+![image](https://user-images.githubusercontent.com/114162341/203827036-819f9706-265d-4966-bbea-38078bb9fb5d.png)
+
+Ara fem un status per a veure que funciona.
+
+![image](https://user-images.githubusercontent.com/114162341/203827140-de2473ad-69f8-42d9-b71a-920421171409.png)
+
+Ara crearem aquest arxiu.
+
+![image](https://user-images.githubusercontent.com/114162341/203827357-bc382bb6-f9d0-4cf9-a6a0-99346a4c683a.png)
+
+Ara simplement escrivim aquesta linia i guardem.
+
+``<?php phpinfo(); ?>``
+
+![image](https://user-images.githubusercontent.com/114162341/203827653-20db0698-ebe5-4700-be94-754958208ef1.png)
+
+I finalment eliminem aquest arxiu ja que exposem informació de la nostra versió i configuració d'aquest fitxer a les persones externes.
+
+![image](https://user-images.githubusercontent.com/114162341/203827862-651ae641-d983-4014-9466-847ebabe490c.png)
