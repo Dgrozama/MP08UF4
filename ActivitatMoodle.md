@@ -71,3 +71,21 @@ Ara simplement escrivim aquesta linia i guardem.
 I finalment eliminem aquest arxiu ja que exposem informació de la nostra versió i configuració d'aquest fitxer a les persones externes.
 
 ![image](https://user-images.githubusercontent.com/114162341/203827862-651ae641-d983-4014-9466-847ebabe490c.png)
+
+I ara ja podem continuar la instal·lació del moodle, fem un unzip del arxiu instal·lat anteriorment.
+
+![image](https://user-images.githubusercontent.com/114162341/203828486-36e62738-400d-4d4f-b125-d95b89b43703.png)
+
+Ara canviem el propietari del arxiu.
+
+![image](https://user-images.githubusercontent.com/114162341/203828972-002998c7-deb3-451c-9e55-f606e1e9161d.png)
+
+Ara creem el directori de fitxers i li donem propietari amb les següents comandes.
+
+![image](https://user-images.githubusercontent.com/114162341/203829690-f18a8db9-cc48-4776-9b5e-f5b945984ef3.png)
+
+Ara accedim dins de la base de dades per a configurar-la.
+
+![image](https://user-images.githubusercontent.com/114162341/203830527-37824971-d2a9-499b-985a-c5bd185ab00c.png)
+
+Creem un usuari en el meu cas l'he deixat 
