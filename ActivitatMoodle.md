@@ -88,4 +88,18 @@ Ara accedim dins de la base de dades per a configurar-la.
 
 ![image](https://user-images.githubusercontent.com/114162341/203830527-37824971-d2a9-499b-985a-c5bd185ab00c.png)
 
-Creem un usuari en el meu cas l'he deixat 
+Creem un usuari en el meu cas l'he deixat com a la guia "moodlemanager".
+
+![image](https://user-images.githubusercontent.com/114162341/203831177-9b458d33-04b3-44e7-8b86-ed2ae166c81f.png)
+
+Ara creem la base de dades per a moodle.
+
+![image](https://user-images.githubusercontent.com/114162341/203831252-23985600-83ee-488e-a481-90043edb26d3.png)
+
+I li donem permissos al usuari creat.
+
+![image](https://user-images.githubusercontent.com/114162341/203831414-ffa0f549-2fa5-4647-bb5d-ed333e0831ae.png)
+
+I
+
+
