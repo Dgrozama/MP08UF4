@@ -36,3 +36,11 @@ I ara instal·lem el PHP.
 
 ![image](https://user-images.githubusercontent.com/114162341/203822800-7c8bae3c-98b3-421d-b743-172c5d5c2826.png)
 
+Ara posem aquesta comanda per a accedir a aquest arxiu de configuració.
+
+![image](https://user-images.githubusercontent.com/114162341/203825235-54e37e4d-6fef-4143-8bbb-6379ce38bd93.png)
+
+Ara posem el "index.php" al principi de tots els index.
+
+![image](https://user-images.githubusercontent.com/114162341/203825635-fe464caf-df1c-4e40-aa23-51afafe85301.png)
+
