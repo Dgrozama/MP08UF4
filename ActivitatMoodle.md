@@ -200,7 +200,29 @@ I ja estarem dins de la zona d'administració de moodle.
 
 ## SOLUCIÓ D'ERRORS
 
-### PROBLEMA
+### PROBLEMA 1
+
+Ara ens dirà que necessitem la extensió zip del PHP.
+
+![image](https://user-images.githubusercontent.com/114162341/205076106-3a657bb7-1fef-4e43-a910-ab1867a93732.png)
+
+Per a solucionar-ho hem d'anar a la terminal i posar aquesta comanda.
+
+![image](https://user-images.githubusercontent.com/114162341/205076513-3a746f53-214f-4ca4-bba4-a735fc0f0520.png)
+
+Ara fem un grep per a buscar el zip.
+
+![image](https://user-images.githubusercontent.com/114162341/205078759-a6076b2d-863e-4aa5-b41b-caa3445e528c.png)
+
+Ara instal·lem el paquet.
+
+![image](https://user-images.githubusercontent.com/114162341/205079355-89441481-7642-4a01-b97d-a646894bf51b.png)
+
+I ara recarguem el servei apache2.
+
+![image](https://user-images.githubusercontent.com/114162341/205079748-9c27d21c-6491-49c1-8276-d1a4625e8f97.png)
+
+### PROBLEMA 2
 
 Ara ens sortirà aquest problema.
 
@@ -214,7 +236,7 @@ I ara reiniciem l'apache.
 
 ![image](https://user-images.githubusercontent.com/114162341/205087521-f45712b4-37f9-4a18-976e-89076c9bc7eb.png)
 
-### PROBLEMA
+### PROBLEMA 3
 
 Ara moodle comprova que tot està ok i si hem de revisar alguna cosa, en el meu cas he de revisar 2 coses.
 
