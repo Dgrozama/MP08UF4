@@ -136,7 +136,8 @@ Seguidament triem el controlador de dades que haguesem instal·lat, en el meu ca
 
 ![image](https://user-images.githubusercontent.com/114162341/205080595-849c91f3-d9cb-4cc6-8974-e60fc884c362.png)
 
-Ara
+Ara ens pregunta els paràmetres de la base de dades, posarem l'adreça localhost, el usuari moodlemanager i la contrasenya moodlemanager, la resta ho deixem tal qual.
 
 ![image](https://user-images.githubusercontent.com/114162341/205080907-bda2491b-9503-4afc-a436-933ddc84204b.png)
+
 
