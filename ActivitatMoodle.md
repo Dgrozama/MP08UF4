@@ -151,3 +151,16 @@ Per a solucionar-ho simplement instal·lem el paquet.
 I ara reiniciem l'apache.
 
 ![image](https://user-images.githubusercontent.com/114162341/205087521-f45712b4-37f9-4a18-976e-89076c9bc7eb.png)
+
+Per últim ens dirà que s'ha realitzat la instal·lació correctament.
+
+![image](https://user-images.githubusercontent.com/114162341/205087762-7e426747-35b9-4aa8-b34a-c63f9284bc76.png)
+
+Ara moodle comprova que tot està ok i si hem de revisar alguna cosa, en el meu cas he de revisar 2 coses.
+
+![image](https://user-images.githubusercontent.com/114162341/205089280-27d40bf1-8ed5-4bbc-8feb-a28a66c1425b.png)
+
+Per a fer-ho anem a la terminal i posem aquesta comanda per a instal·lar els paquets necessaris.
+
+![image](https://user-images.githubusercontent.com/114162341/205089580-8591ab63-47f9-41e3-9c81-d6e71231b72f.png)
+
