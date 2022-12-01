@@ -192,3 +192,5 @@ Ara també ens demana canviar aquests paràmetres.
 
 ![image](https://user-images.githubusercontent.com/114162341/205095937-d7f78ebe-afff-4a02-8700-4eeadae375bf.png)
 
+![image](https://user-images.githubusercontent.com/114162341/205096745-f22d02e6-aaec-4b1a-8a88-57750010d3ab.png)
+
