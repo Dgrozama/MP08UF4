@@ -168,11 +168,17 @@ I fem un reload.
 
 ![image](https://user-images.githubusercontent.com/114162341/205089902-96da24fd-d4a0-4658-a760-a777d305e31b.png)
 
-Ara veiem que els principals problemes s'han arreglat però encara en tenim uns quants.
+Ara veiem que els principals problemes s'han arreglat però encara en tenim un parell.
 
 ![image](https://user-images.githubusercontent.com/114162341/205090080-b46b934c-66c1-42f5-a695-224c51a7febe.png)
 
 Però com és una instal·lació local no hi farem cas a aquestes comprovacions.
 
 ![image](https://user-images.githubusercontent.com/114162341/205090161-bd2e6b01-d7a6-45e3-84a7-57e3f37d08d4.png)
+
+Ara moodle realitzarà una serie d'accions que ens dirà que ha sortit exitosament.
+
+![image](https://user-images.githubusercontent.com/114162341/205093145-5185d69d-a176-4ea6-b409-047eae84fc2f.png)
+
+
 
