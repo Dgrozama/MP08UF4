@@ -136,16 +136,18 @@ Seguidament triem el controlador de dades que haguesem instal·lat, en el meu ca
 
 ![image](https://user-images.githubusercontent.com/114162341/205080595-849c91f3-d9cb-4cc6-8974-e60fc884c362.png)
 
-Ara ens pregunta els paràmetres de la base de dades, posarem l'adreça localhost, el usuari moodlemanager i la contrasenya moodlemanager, la resta ho deixem tal qual.
+Ara ens pregunta els paràmetres de la base de dades, posarem l'adreça localhost, el usuari moodlemanager i la contrasenya managermoodle, la resta ho deixem tal qual.
 
-![image](https://user-images.githubusercontent.com/114162341/205080907-bda2491b-9503-4afc-a436-933ddc84204b.png)
+![image](https://user-images.githubusercontent.com/114162341/205086940-2761f778-18d8-4010-b5db-3090f55d0a24.png)
 
-Una vegada li haguesem donat a següent ens pot donar aquest error.
+Ara ens sortirà aquest problema.
 
-![image](https://user-images.githubusercontent.com/114162341/205081950-d2405950-f5c9-49c0-9a1f-a44fdb01c262.png)
+![image](https://user-images.githubusercontent.com/114162341/205087084-5eea1758-0b6f-4911-bf4f-799522e07a54.png)
 
-Ara fem un gedit per a obrir-ho en notes i veure la linia 83.
+Per a solucionar-ho simplement instal·lem el paquet.
 
-![image](https://user-images.githubusercontent.com/114162341/205084167-4efa4013-a9bb-4c2f-814f-33310eab93af.png)
+![image](https://user-images.githubusercontent.com/114162341/205087436-c04c558d-9b98-485a-a44e-65df6f36ff77.png)
 
+I ara reiniciem l'apache.
 
+![image](https://user-images.githubusercontent.com/114162341/205087521-f45712b4-37f9-4a18-976e-89076c9bc7eb.png)
