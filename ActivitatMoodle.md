@@ -120,5 +120,6 @@ Ara fem un grep per a buscar el zip.
 
 ![image](https://user-images.githubusercontent.com/114162341/205078759-a6076b2d-863e-4aa5-b41b-caa3445e528c.png)
 
-Ara
+Ara 
 
+![image](https://user-images.githubusercontent.com/114162341/205079355-89441481-7642-4a01-b97d-a646894bf51b.png)
