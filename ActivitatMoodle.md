@@ -123,3 +123,20 @@ Ara fem un grep per a buscar el zip.
 Ara instal·lem el paquet.
 
 ![image](https://user-images.githubusercontent.com/114162341/205079355-89441481-7642-4a01-b97d-a646894bf51b.png)
+
+I ara recarguem el servei apache2.
+
+![image](https://user-images.githubusercontent.com/114162341/205079748-9c27d21c-6491-49c1-8276-d1a4625e8f97.png)
+
+Ara ens demana un directori de dades, posarem l'adreça que haviem creat anteriorment.
+
+![image](https://user-images.githubusercontent.com/114162341/205080218-7ff89b44-6e0b-4851-9d75-ac938b4e4927.png)
+
+Seguidament triem el controlador de dades que haguesem instal·lat, en el meu cas el MariaDB.
+
+![image](https://user-images.githubusercontent.com/114162341/205080595-849c91f3-d9cb-4cc6-8974-e60fc884c362.png)
+
+Ara
+
+![image](https://user-images.githubusercontent.com/114162341/205080907-bda2491b-9503-4afc-a436-933ddc84204b.png)
+
