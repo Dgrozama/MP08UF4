@@ -140,4 +140,12 @@ Ara ens pregunta els paràmetres de la base de dades, posarem l'adreça localhos
 
 ![image](https://user-images.githubusercontent.com/114162341/205080907-bda2491b-9503-4afc-a436-933ddc84204b.png)
 
+Una vegada li haguesem donat a següent ens pot donar aquest error.
+
+![image](https://user-images.githubusercontent.com/114162341/205081950-d2405950-f5c9-49c0-9a1f-a44fdb01c262.png)
+
+Ara fem un gedit per a obrir-ho en notes i veure la linia 83.
+
+![image](https://user-images.githubusercontent.com/114162341/205084167-4efa4013-a9bb-4c2f-814f-33310eab93af.png)
+
 
