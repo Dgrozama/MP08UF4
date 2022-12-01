@@ -197,3 +197,33 @@ Ara també ens demana canviar aquests paràmetres.
 I ja estarem dins de la zona d'administració de moodle.
 
 ![image](https://user-images.githubusercontent.com/114162341/205096863-4b31b230-46b0-4472-8f3d-6d0336718d74.png)
+
+## SOLUCIÓ D'ERRORS
+
+### PROBLEMA
+
+Ara ens sortirà aquest problema.
+
+![image](https://user-images.githubusercontent.com/114162341/205087084-5eea1758-0b6f-4911-bf4f-799522e07a54.png)
+
+Per a solucionar-ho simplement instal·lem el paquet.
+
+![image](https://user-images.githubusercontent.com/114162341/205087436-c04c558d-9b98-485a-a44e-65df6f36ff77.png)
+
+I ara reiniciem l'apache.
+
+![image](https://user-images.githubusercontent.com/114162341/205087521-f45712b4-37f9-4a18-976e-89076c9bc7eb.png)
+
+### PROBLEMA
+
+Ara moodle comprova que tot està ok i si hem de revisar alguna cosa, en el meu cas he de revisar 2 coses.
+
+![image](https://user-images.githubusercontent.com/114162341/205089280-27d40bf1-8ed5-4bbc-8feb-a28a66c1425b.png)
+
+Per a fer-ho anem a la terminal i posem aquesta comanda per a instal·lar els paquets necessaris.
+
+![image](https://user-images.githubusercontent.com/114162341/205089580-8591ab63-47f9-41e3-9c81-d6e71231b72f.png)
+
+I fem un reload.
+
+![image](https://user-images.githubusercontent.com/114162341/205089902-96da24fd-d4a0-4658-a760-a777d305e31b.png)
