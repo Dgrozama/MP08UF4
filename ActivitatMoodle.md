@@ -184,3 +184,7 @@ Ara moodle ens demana que configuresem un compte d'administrador.
 
 ![image](https://user-images.githubusercontent.com/114162341/205094239-ef4a71ef-0d8d-4649-b72f-180c5e33c8a2.png)
 
+Ara fem una petita configuració de la nostra pagina de moodle.
+
+![image](https://user-images.githubusercontent.com/114162341/205095065-62da629e-ed1f-4262-9d51-7e0bf9154343.png)
+
