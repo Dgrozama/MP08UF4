@@ -164,3 +164,7 @@ Per a fer-ho anem a la terminal i posem aquesta comanda per a instal·lar els pa
 
 ![image](https://user-images.githubusercontent.com/114162341/205089580-8591ab63-47f9-41e3-9c81-d6e71231b72f.png)
 
+I fem un reload.
+
+![image](https://user-images.githubusercontent.com/114162341/205089902-96da24fd-d4a0-4658-a760-a777d305e31b.png)
+
