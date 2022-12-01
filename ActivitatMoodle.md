@@ -194,3 +194,6 @@ Ara també ens demana canviar aquests paràmetres.
 
 ![image](https://user-images.githubusercontent.com/114162341/205096745-f22d02e6-aaec-4b1a-8a88-57750010d3ab.png)
 
+I ja estarem dins de la zona d'administració de moodle.
+
+![image](https://user-images.githubusercontent.com/114162341/205096863-4b31b230-46b0-4472-8f3d-6d0336718d74.png)
