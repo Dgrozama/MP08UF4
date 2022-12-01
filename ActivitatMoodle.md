@@ -182,5 +182,5 @@ Ara moodle realitzarà una serie d'accions que ens dirà que ha sortit exitosame
 
 Ara moodle ens demana que configuresem un compte d'administrador.
 
-![image](https://user-images.githubusercontent.com/114162341/205093401-012ddede-b270-44eb-9d32-b6b4517e6574.png)
+![image](https://user-images.githubusercontent.com/114162341/205094046-8fc13245-06eb-417b-bb36-303ae42ea0e1.png)
 
