@@ -104,3 +104,15 @@ I finalment si posem la ip de la màquina i la direcció ja ens sortirà la pàg
 
 ![image](https://user-images.githubusercontent.com/114162341/203832103-8e037480-9419-4bc3-8fb5-68f88adef5b7.png)
 
+Ara configurarem el moodle, el primer que hem de fer és triar el idioma, en el nostre cas el català.
+
+![image](https://user-images.githubusercontent.com/114162341/205075604-6e0a247d-ae28-4063-bb6f-d5343e98fc8d.png)
+
+Ara ens dirà que necessitem la extensió zip del PHP.
+
+![image](https://user-images.githubusercontent.com/114162341/205076106-3a657bb7-1fef-4e43-a910-ab1867a93732.png)
+
+Per a solucionar-ho hem d'anar a la terminal i posar aquesta comanda.
+
+![image](https://user-images.githubusercontent.com/114162341/205076513-3a746f53-214f-4ca4-bba4-a735fc0f0520.png)
+
