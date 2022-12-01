@@ -116,3 +116,9 @@ Per a solucionar-ho hem d'anar a la terminal i posar aquesta comanda.
 
 ![image](https://user-images.githubusercontent.com/114162341/205076513-3a746f53-214f-4ca4-bba4-a735fc0f0520.png)
 
+Ara fem un grep per a buscar el zip.
+
+![image](https://user-images.githubusercontent.com/114162341/205078759-a6076b2d-863e-4aa5-b41b-caa3445e528c.png)
+
+Ara
+
