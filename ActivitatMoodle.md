@@ -180,5 +180,7 @@ Ara moodle realitzarà una serie d'accions que ens dirà que ha sortit exitosame
 
 ![image](https://user-images.githubusercontent.com/114162341/205093145-5185d69d-a176-4ea6-b409-047eae84fc2f.png)
 
+Ara moodle ens demana que configuresem un compte d'administrador.
 
+![image](https://user-images.githubusercontent.com/114162341/205093401-012ddede-b270-44eb-9d32-b6b4517e6574.png)
 
