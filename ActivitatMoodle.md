@@ -188,3 +188,7 @@ Ara fem una petita configuració de la nostra pagina de moodle.
 
 ![image](https://user-images.githubusercontent.com/114162341/205095065-62da629e-ed1f-4262-9d51-7e0bf9154343.png)
 
+Ara també ens demana canviar aquests paràmetres.
+
+![image](https://user-images.githubusercontent.com/114162341/205095937-d7f78ebe-afff-4a02-8700-4eeadae375bf.png)
+
