@@ -57,14 +57,20 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 
   
 6.  Crea un alumne anomenat Cognom_1_alumne.
-7.  Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
-8. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
-9. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
-10. Fes que Cognom_3_profe sigui professor de tots els cursos.
-11. Afegeix a tots els alumnes a tots els cursos (els 5).
-12. Mostra l'apartat Participants de cada curs.
-13. Què són les Cohorts? 
-14. Perquè serveixen?
-15. Què són els grups?
+
+![image](https://user-images.githubusercontent.com/114162341/207904178-19f4e3fc-67f8-4fdf-a945-3462eac38f99.png)
+
+![image](https://user-images.githubusercontent.com/114162341/207904363-b9b4fb74-db0f-43b4-ad78-67c2755a8fd3.png)
+
+8.  Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
+
+10. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
+11. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+12. Fes que Cognom_3_profe sigui professor de tots els cursos.
+13. Afegeix a tots els alumnes a tots els cursos (els 5).
+14. Mostra l'apartat Participants de cada curs.
+15. Què són les Cohorts? 
 16. Perquè serveixen?
-17. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+17. Què són els grups?
+18. Perquè serveixen?
+19. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
