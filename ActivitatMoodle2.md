@@ -32,4 +32,13 @@ I ara dins de SMX 2n curs Grup B he de crear totes les classes.
 
 ![image](https://user-images.githubusercontent.com/114162341/207907721-104e6e4f-2a27-4616-9ccc-74e8979e6480.png)
 
+![image](https://user-images.githubusercontent.com/114162341/207907977-1c68a85d-9867-4476-ab67-e4a3a03c6e5e.png)
+
+![image](https://user-images.githubusercontent.com/114162341/207908171-df32f7ff-6acd-4adf-a212-783a8e3961b0.png)
+
+![image](https://user-images.githubusercontent.com/114162341/207908562-a9f3050b-e715-4d99-9630-dcec3734c509.png)
+
+I també creem les classes per als dos grups.
+
+![image](https://user-images.githubusercontent.com/114162341/207908983-78bfdb5e-ece2-4587-9c7a-1a20112f72ee.png)
 
