@@ -20,3 +20,6 @@ I a segon creem el grup A i B.
 
 ![image](https://user-images.githubusercontent.com/114162341/207891858-adec8630-8656-4e57-bef9-d49f146aea82.png)
 
+I ara faig el mateix amb les respectives classes u 
+
+![image](https://user-images.githubusercontent.com/114162341/207892361-6acf3518-372a-4e81-8acd-445338be68bf.png)
