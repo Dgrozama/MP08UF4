@@ -28,3 +28,8 @@ I així quedarà al final.
 
 ![image](https://user-images.githubusercontent.com/114162341/207893278-19dffdac-3dff-4d85-be35-d8c72ef9e729.png)
 
+I ara dins de SMX 2n curs Grup B he de crear totes les classes.
+
+![image](https://user-images.githubusercontent.com/114162341/207907721-104e6e4f-2a27-4616-9ccc-74e8979e6480.png)
+
+
