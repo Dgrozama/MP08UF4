@@ -8,3 +8,7 @@ Ara creem una subcategoria per al grau mitjà (SMX).
 
 ![image](https://user-images.githubusercontent.com/114162341/207890809-c5e9a508-11cc-4b4d-8dd5-24a5bc323ec1.png)
 
+Ara creo dos subcategories dins de SMX, primer de SMX i segon de SMX.
+
+![image](https://user-images.githubusercontent.com/114162341/207891155-20b48606-83e0-494f-b429-78c648b846a5.png)
+
