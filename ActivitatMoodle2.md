@@ -27,3 +27,4 @@ I ara faig el mateix amb les respectives classes de superior.
 I així quedarà al final.
 
 ![image](https://user-images.githubusercontent.com/114162341/207893278-19dffdac-3dff-4d85-be35-d8c72ef9e729.png)
+
