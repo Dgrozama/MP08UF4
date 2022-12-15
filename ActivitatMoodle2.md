@@ -23,3 +23,7 @@ I a segon creem el grup A i B.
 I ara faig el mateix amb les respectives classes de superior.
 
 ![image](https://user-images.githubusercontent.com/114162341/207892361-6acf3518-372a-4e81-8acd-445338be68bf.png)
+
+I així quedarà al final.
+
+![image](https://user-images.githubusercontent.com/114162341/207893278-19dffdac-3dff-4d85-be35-d8c72ef9e729.png)
