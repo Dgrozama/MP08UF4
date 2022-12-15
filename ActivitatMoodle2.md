@@ -12,3 +12,11 @@ Ara creo dos subcategories dins de SMX, primer de SMX i segon de SMX.
 
 ![image](https://user-images.githubusercontent.com/114162341/207891155-20b48606-83e0-494f-b429-78c648b846a5.png)
 
+I dins de primer creo els 3 grups per a cada classe.
+
+![image](https://user-images.githubusercontent.com/114162341/207891693-3a49d3a8-e400-43aa-9c8a-18b7dc950c6d.png)
+
+I a segon creem el grup A i B.
+
+![image](https://user-images.githubusercontent.com/114162341/207891858-adec8630-8656-4e57-bef9-d49f146aea82.png)
+
