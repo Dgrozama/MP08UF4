@@ -141,8 +141,16 @@ Les cohorts són un grup d'usuaris.
 
 ![image](https://user-images.githubusercontent.com/114162341/212109921-c2719c65-472f-4c12-9458-c2a429dd6998.png)
 
-
 22. Perquè serveixen?
-23. Què són els grups?
-24. Perquè serveixen?
-25. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+
+Per a afegir un conjunt d'usuaris a la vegada en un curs, grup, classe, etc...
+
+24. Què són els grups?
+
+Els grups són un conjunt d'usuaris.
+
+26. Perquè serveixen?
+
+
+
+28. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
