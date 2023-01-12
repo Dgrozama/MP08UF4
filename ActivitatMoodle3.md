@@ -137,6 +137,9 @@ Ja ho he posat als exercicis de dalt.
 
 20. Què són les Cohorts? 
 
+Les cohorts són un grup d'usuaris.
+
+![image](https://user-images.githubusercontent.com/114162341/212109921-c2719c65-472f-4c12-9458-c2a429dd6998.png)
 
 
 22. Perquè serveixen?
