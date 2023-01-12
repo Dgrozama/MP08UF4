@@ -100,6 +100,15 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 
 ![image](https://user-images.githubusercontent.com/114162341/212105846-fe44a915-cf9c-4904-9eee-3605176655f4.png)
 
+![image](https://user-images.githubusercontent.com/114162341/212106338-04aed6f3-1884-40ca-82fe-62243ebc95fd.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212106498-0c7a6f3e-a4ee-4a43-bab3-c6f3e32584a8.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212106622-63dbd511-9e5d-4dce-abe8-4b7d97f7488e.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212106836-30533743-02cc-43fb-aab9-03815fe910a3.png)
+
+
 
 16. Afegeix a tots els alumnes a tots els cursos (els 5).
 17. Mostra l'apartat Participants de cada curs.
