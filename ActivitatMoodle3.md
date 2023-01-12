@@ -154,3 +154,4 @@ Els grups són un conjunt d'usuaris.
 Per a separar alumnes, per exemple en dos classes.
 
 28. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+
