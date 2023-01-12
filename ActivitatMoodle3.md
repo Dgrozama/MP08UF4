@@ -108,12 +108,32 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 
 ![image](https://user-images.githubusercontent.com/114162341/212106836-30533743-02cc-43fb-aab9-03815fe910a3.png)
 
-
-
 16. Afegeix a tots els alumnes a tots els cursos (els 5).
-17. Mostra l'apartat Participants de cada curs.
-18. Què són les Cohorts? 
-19. Perquè serveixen?
-20. Què són els grups?
-21. Perquè serveixen?
-22. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+
+![image](https://user-images.githubusercontent.com/114162341/212107947-3b0110e0-5b83-42f3-85c5-d9f6d7cf90fb.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212107992-68acf2ec-d25d-442a-bf03-b380559d0e0a.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212108282-fc610882-1d2e-407e-82a2-4a28eb1475b3.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212108339-1db49108-d541-4d08-b3f3-8e6d54c6944a.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212108550-576acab0-d3d8-452f-9a7a-d31c8d3843a5.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212108652-0351a605-aeb9-4632-91f3-75e6bf598378.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212108768-1bd5627f-6701-40bc-a8e4-68dc473e9c52.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212108854-b103c477-8ab9-4a13-aa35-502f20bc77df.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212109026-56dc68d1-5fb5-47d6-93ca-5a466a087822.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212109118-c5274b66-c9a2-4143-9188-c72aab51348a.png)
+
+
+18. Mostra l'apartat Participants de cada curs.
+19. Què són les Cohorts? 
+20. Perquè serveixen?
+21. Què són els grups?
+22. Perquè serveixen?
+23. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
