@@ -132,8 +132,14 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 
 
 18. Mostra l'apartat Participants de cada curs.
-19. Què són les Cohorts? 
-20. Perquè serveixen?
-21. Què són els grups?
+
+Ja ho he posat als exercicis de dalt.
+
+20. Què són les Cohorts? 
+
+
+
 22. Perquè serveixen?
-23. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+23. Què són els grups?
+24. Perquè serveixen?
+25. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
