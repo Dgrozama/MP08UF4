@@ -93,10 +93,18 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 
 
 14. Fes que Cognom_3_profe sigui professor de tots els cursos.
-15. Afegeix a tots els alumnes a tots els cursos (els 5).
-16. Mostra l'apartat Participants de cada curs.
-17. Què són les Cohorts? 
-18. Perquè serveixen?
-19. Què són els grups?
-20. Perquè serveixen?
-21. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+
+![image](https://user-images.githubusercontent.com/114162341/212105455-959e9093-403d-4412-ac3b-3ec7c1d3dfdc.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212105643-914c001f-a3a1-4e7f-822b-529df20d1937.png)
+
+![image](https://user-images.githubusercontent.com/114162341/212105846-fe44a915-cf9c-4904-9eee-3605176655f4.png)
+
+
+16. Afegeix a tots els alumnes a tots els cursos (els 5).
+17. Mostra l'apartat Participants de cada curs.
+18. Què són les Cohorts? 
+19. Perquè serveixen?
+20. Què són els grups?
+21. Perquè serveixen?
+22. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
