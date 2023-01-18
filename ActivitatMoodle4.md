@@ -75,6 +75,12 @@
 
 
 - Contesta les preguntes amb un perfil de professor.
+
+![image](https://user-images.githubusercontent.com/114162341/213239155-0395491a-641f-4967-8208-c95a042892dc.png)
+
+![image](https://user-images.githubusercontent.com/114162341/213239318-9f3ca10a-0892-43d9-b787-d2d7cab57687.png)
+
+
 - Crea un tema anomenat "Fonaments de Python".
 - Oculta la resta de temes del curs.
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info [aqui](https://www.w3schools.com/python/).
