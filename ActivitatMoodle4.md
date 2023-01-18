@@ -65,6 +65,11 @@
 
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
 
+![image](https://user-images.githubusercontent.com/114162341/213233244-04786292-8f3c-40b5-be27-e4b2be0ab4d4.png)
+
+![image](https://user-images.githubusercontent.com/114162341/213233395-b0623e93-e277-467a-932c-95cef1d6cbb5.png)
+
+![image](https://user-images.githubusercontent.com/114162341/213233862-b9cd8cfe-9b42-48e3-a537-617fda0d1704.png)
 
 
 - Fes que dos estudiants fassin consultes al fòrum.
