@@ -47,9 +47,26 @@
 # Cursos:
 
 - Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
+
+![image](https://user-images.githubusercontent.com/114162341/213231912-c2809425-9de2-466c-ad5b-6253891cadb1.png)
+
+
 - Inscriu a tots els alumnes al curs.
+
+![image](https://user-images.githubusercontent.com/114162341/213232493-e7ca8cb5-907d-4595-8f09-57cbaf6c9403.png)
+
+![image](https://user-images.githubusercontent.com/114162341/213232586-3a10a6c6-8f82-460d-8946-83a4be36d627.png)
+
+
 - Inscriu a tots els professors al curs.
+
+![image](https://user-images.githubusercontent.com/114162341/213232743-b37b18a4-e314-490c-afaf-7f47e72a1be8.png)
+
+
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
+
+
+
 - Fes que dos estudiants fassin consultes al fòrum.
 - Contesta les preguntes amb un perfil de professor.
 - Crea un tema anomenat "Fonaments de Python".
