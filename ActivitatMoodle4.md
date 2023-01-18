@@ -3,6 +3,7 @@
 ![image](https://user-images.githubusercontent.com/110727546/207070729-91000a9b-782a-43ed-8f50-344d9db3ad3f.png)
 
 - Entra a un usuari de Moodle i personalitza el seu perfil amb una imatge.
+
 - Canvia la seva contrasenya.
 - Canvia el seu idioma preferit a anglès.
 - Oculta el seu mail a usuaris sense permisos.
