@@ -65,14 +65,15 @@
 
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
 
-![image](https://user-images.githubusercontent.com/114162341/213233244-04786292-8f3c-40b5-be27-e4b2be0ab4d4.png)
-
-![image](https://user-images.githubusercontent.com/114162341/213233395-b0623e93-e277-467a-932c-95cef1d6cbb5.png)
-
-![image](https://user-images.githubusercontent.com/114162341/213233862-b9cd8cfe-9b42-48e3-a537-617fda0d1704.png)
-
+![image](https://user-images.githubusercontent.com/114162341/213237258-9e69d19a-cba2-4a20-8d62-4babc841de0d.png)
 
 - Fes que dos estudiants fassin consultes al fòrum.
+
+![image](https://user-images.githubusercontent.com/114162341/213238106-373257e3-d5bf-49ee-8372-a44b3c795c60.png)
+
+![image](https://user-images.githubusercontent.com/114162341/213238721-26549c8d-926b-44ff-9765-0cd4f091eed8.png)
+
+
 - Contesta les preguntes amb un perfil de professor.
 - Crea un tema anomenat "Fonaments de Python".
 - Oculta la resta de temes del curs.
