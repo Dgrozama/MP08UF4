@@ -82,7 +82,15 @@
 
 
 - Crea un tema anomenat "Fonaments de Python".
+
+![image](https://user-images.githubusercontent.com/114162341/213240049-62eb337c-d2b0-4766-8472-8baabcf18d81.png)
+
+
 - Oculta la resta de temes del curs.
+
+![image](https://user-images.githubusercontent.com/114162341/213240209-118c0aa7-5a37-4ead-8886-475b1ad21328.png)
+
+
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info [aqui](https://www.w3schools.com/python/).
 - Fes que els alumnes contestin la tasca (mínim 3).
 - Qualifica la tasca de l'alumnat.
