@@ -66,7 +66,7 @@
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
 
 ![image](https://user-images.githubusercontent.com/114162341/213237258-9e69d19a-cba2-4a20-8d62-4babc841de0d.png)
-
+Has d'entregar el document adjunt amb les respostes.
 - Fes que dos estudiants fassin consultes al fòrum.
 
 ![image](https://user-images.githubusercontent.com/114162341/213238106-373257e3-d5bf-49ee-8372-a44b3c795c60.png)
@@ -94,9 +94,12 @@
 
 ![image](https://user-images.githubusercontent.com/114162341/213468125-4047c948-bbcf-4e7a-9aa9-185b4ac25b16.png)
 
+![image](https://user-images.githubusercontent.com/114162341/213470182-891c3b6e-2f9f-4945-8547-e6c0a9663f48.png)
 
+![image](https://user-images.githubusercontent.com/114162341/213470350-8a9f4c6f-913f-45f3-a18c-ce29ab40f29a.png)
 
 - Fes que els alumnes contestin la tasca (mínim 3).
+
 - Qualifica la tasca de l'alumnat.
 - Mostra les qualificacions de l'alumnat.
 - Com a perfil d'alumne mostra la teva qualificació.
