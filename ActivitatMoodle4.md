@@ -100,11 +100,22 @@ Has d'entregar el document adjunt amb les respostes.
 
 - Fes que els alumnes contestin la tasca (mínim 3).
 
+![image](https://user-images.githubusercontent.com/114162341/213470864-f4531a30-f65f-47e8-ab15-60f774ce5e57.png)
+
+![image](https://user-images.githubusercontent.com/114162341/213471139-cc8f2c95-1d93-42e2-ae10-1d60c58303d7.png)
+
+![image](https://user-images.githubusercontent.com/114162341/213471366-85f449a9-dd8b-4529-948f-d398faf20ef9.png)
+
 - Qualifica la tasca de l'alumnat.
+
 - Mostra les qualificacions de l'alumnat.
+
 - Com a perfil d'alumne mostra la teva qualificació.
+
 - Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+
 - Com a alumne/a contesta la consulta.
+
 - Com a professor mostra les contestacions de la consulta.
 
 # Seguretat del lloc:
