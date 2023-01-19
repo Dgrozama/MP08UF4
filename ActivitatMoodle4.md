@@ -173,7 +173,14 @@ Serveix per a posar videos, questionaris, etc sense que et surtigue de moodle.
 Canvia el tauler d'usuaris.
 
 - Afegeix a dalt de tot "Cursos visitats recentment".
+
+![image](https://user-images.githubusercontent.com/114162341/213482909-6e207395-1950-4137-9cbc-2b9fc03feba6.png)
+
+
 - Afegeix a baix de tot "Usuaris en línia".
+
+![image](https://user-images.githubusercontent.com/114162341/213482946-f3badb37-6641-4b07-bf5c-c4505cc53489.png)
+
 
 # Canvia el tema del Moodle:
 
