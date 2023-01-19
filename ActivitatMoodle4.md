@@ -121,11 +121,18 @@ Has d'entregar el document adjunt amb les respostes.
 
 - Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
 
+![image](https://user-images.githubusercontent.com/114162341/213475279-3bec566f-c643-44f4-8b05-18597542ed9f.png)
 
 
 - Com a alumne/a contesta la consulta.
 
+![image](https://user-images.githubusercontent.com/114162341/213475406-32a1a751-7bc3-45e6-9936-23abfdac0e8c.png)
+
+
 - Com a professor mostra les contestacions de la consulta.
+
+![image](https://user-images.githubusercontent.com/114162341/213475513-6f00fb03-af8a-4404-830b-739bbbbc8052.png)
+
 
 # Seguretat del lloc:
 
