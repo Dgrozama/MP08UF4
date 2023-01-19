@@ -108,7 +108,11 @@ Has d'entregar el document adjunt amb les respostes.
 
 - Qualifica la tasca de l'alumnat.
 
+![image](https://user-images.githubusercontent.com/114162341/213473984-fc1d8a9d-39a5-4533-8f10-4d62866eec2c.png)
+
 - Mostra les qualificacions de l'alumnat.
+
+![image](https://user-images.githubusercontent.com/114162341/213474012-1f32152a-6f50-4b95-8b5a-57625add59ac.png)
 
 - Com a perfil d'alumne mostra la teva qualificació.
 
