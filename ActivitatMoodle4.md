@@ -149,9 +149,22 @@ Has d'entregar el document adjunt amb les respostes.
   - Tinguin 2 dígits.
   - Tinguin 3 maiúscules.
 
+![image](https://user-images.githubusercontent.com/114162341/213478809-3f2ec573-608a-4739-aa44-1d9262ac9821.png)
+
+
 # Plugins:
 
 - Instal·la 2 [plugins](https://moodle.org/plugins/) de Moodle i explica què fan.
+
+Serveix per a posar diversos tipus de colors al text.
+
+![image](https://user-images.githubusercontent.com/114162341/213480652-20458479-3f90-4925-9376-cca830f6b9ea.png)
+
+Serveix per a posar videos, questionaris, etc sense que et surtigue de moodle.
+
+![image](https://user-images.githubusercontent.com/114162341/213481932-f228baf3-8599-4d7d-ba53-036f9bb972ef.png)
+
+
 
 # Personalització del tauler d'usuaris:
 
