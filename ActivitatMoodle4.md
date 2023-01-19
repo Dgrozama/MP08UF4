@@ -140,6 +140,10 @@ Has d'entregar el document adjunt amb les respostes.
 
 
 - Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho. VIGILA: Fica una adreça IP sencera si no bloquejaràs tota la xarxa, si us passa podeu arreglar-ho [així](https://moodle.org/mod/forum/discuss.php?d=323745).
+
+![image](https://user-images.githubusercontent.com/114162341/213476658-58848d33-ac8f-4fde-8b9a-f3fb84721771.png)
+
+
 - Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
   - Tinguin mínim 10 caràcters.
   - Tinguin 2 dígits.
