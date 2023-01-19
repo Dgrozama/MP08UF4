@@ -155,3 +155,4 @@ Per a separar alumnes, per exemple en dos classes.
 
 28. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
 
+![image](https://user-images.githubusercontent.com/114162341/213474742-8674828b-3c78-435a-aeff-03bade7bd43b.png)
