@@ -116,7 +116,12 @@ Has d'entregar el document adjunt amb les respostes.
 
 - Com a perfil d'alumne mostra la teva qualificació.
 
+![image](https://user-images.githubusercontent.com/114162341/213474340-7e16871c-87ef-4375-a9c9-eb2a00e0d9f6.png)
+
+
 - Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+
+
 
 - Com a alumne/a contesta la consulta.
 
