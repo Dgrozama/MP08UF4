@@ -184,6 +184,10 @@ Canvia el tauler d'usuaris.
 
 # Canvia el tema del Moodle:
 
+![image](https://user-images.githubusercontent.com/114162341/213483317-dcff5a46-20e9-41af-84b7-8f9a5ed1ece0.png)
+
+
+
 Vigila que sigui un tema suportat per la teva versió de Moodle:
 
 [Pàgina amb temes.](https://moodle.org/plugins/browse.php?list=category&id=3)
